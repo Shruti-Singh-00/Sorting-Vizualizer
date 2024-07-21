@@ -27,10 +27,5 @@ In order to use `Sorting Visualizer`, you will need to have the following instal
 
 
 
-## License
-
-`Sorting Visualizer` is licensed under the `MIT License`. See the `LICENSE` file for more information.
-
-
 
 

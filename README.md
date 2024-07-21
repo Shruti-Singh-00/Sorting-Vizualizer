@@ -13,36 +13,6 @@ In order to use `Sorting Visualizer`, you will need to have the following instal
 - `Node.js` and `npm` (Node Package Manager)
 - `Angular CLI`
 
-### Installation
-
-To install `Sorting Visualizer`, you can follow these steps:
-
-1. Clone the repository:
-
-```
-git clone https://github.com/ManishDait/sorting-visualizer.git
-```
-Alternatively, you can download the source code as a ZIP file and extract it to a directory of your choice.
-
-2. Navigate to the project directory and install the dependencies:
-
-```
-cd Sorting-Visualizer
-```
-```
-npm install
-```
-
-### Usage
-
-To run `Sorting Visualizer`, you can use the following command:
-
-```
-ng serve
-```
-
-Navigate to `http://localhost:4200/` to view the application in your web browser.
-
 ## Features
 
 `Sorting Visualizer` provides the following features:
@@ -55,7 +25,6 @@ Navigate to `http://localhost:4200/` to view the application in your web browser
 
 ![Sorting Visualizer Demo](images/demo.gif)
 
-[Check out the deploy website here](https://manishdait.github.io/sorting-visualizer/)
 
 
 ## License
